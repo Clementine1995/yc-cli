@@ -1,0 +1,26 @@
+{
+  "name": "yc-cli",
+  "version": "1.0.0",
+  "description": "自制的CLI工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "yc-cli": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clementine1995/yc-cli.git"
+  },
+  "keywords": [
+    "npm",
+    "cli"
+  ],
+  "author": "Clementine1995",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clementine1995/yc-cli/issues"
+  },
+  "homepage": "https://github.com/Clementine1995/yc-cli#readme"
+}
